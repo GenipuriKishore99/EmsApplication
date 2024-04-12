@@ -1,0 +1,11 @@
+.search-bar{
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid gray;
+
+}
+.search-text    {
+    border:none;
+    width:100%;
+    margin-left:10px;
+}

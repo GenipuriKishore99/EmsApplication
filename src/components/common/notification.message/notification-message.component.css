@@ -1,0 +1,31 @@
+[data-type="success"]{
+    background-color: green;
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+}
+[data-type="error"]{
+    background-color:red;
+    color:white;
+    padding:10px;
+    border-radius: 10px;
+}
+
+[data-type="info"]{
+    background-color:blue;
+    color:white;
+    padding: 10px;;
+}
+
+.notification-message{
+    position: fixed;
+    top:10px;
+    right:10px;
+    padding: 10px;
+}
+.close-btn{
+    float: right;
+    padding-left: 20px;
+    cursor: pointer;
+
+}

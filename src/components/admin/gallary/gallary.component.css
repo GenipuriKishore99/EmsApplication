@@ -1,0 +1,32 @@
+.image-item {
+    display: flex;
+    margin: 10px 0;
+  }
+  .image-item__btn-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+  }
+  button {
+    height: 40px;
+  }
+  .img{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .upload__image-wrapper button{
+    border-radius: 10px;
+    background-color: rgba(27, 14, 28, 0.203);
+    color: rgb(255, 0, 157);
+    margin-bottom: 10px;
+  }
+  .App{
+    border:2px solid rgb(0, 157, 255);
+    background-color: rgb(193, 244, 244);
+  }
+  .img-style{
+     display: inline-block;
+    
+  }
+  

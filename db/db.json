@@ -1,0 +1,87 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "name": "kishore",
+      "password": "kishore@2000"
+    }
+  ],
+  "eventcategory": [
+    {
+      "id": 1,
+      "categoryName": "Birtday123",
+      "categoryDescription": "Birthday celebrations",
+      "isactive": false
+    },
+    {
+      "id": 2,
+      "categoryName": "qwertt",
+      "categoryDescription": "qwe",
+      "isactive": false
+    },
+    {
+      "id": 3,
+      "categoryName": "Annual celebration",
+      "categoryDescription": "Annula celebration .............1!",
+      "isactive": true
+    },
+    {
+      "id": 4,
+      "categoryName": "Birtday123",
+      "categoryDescription": "Birthday celebrations",
+      "isactive": true
+    },
+    {
+      "id": 5,
+      "categoryName": "Birtday",
+      "categoryDescription": "Birthday celebrations",
+      "isactive": true
+    },
+    {
+      "id": 6,
+      "categoryName": " ",
+      "categoryDescription": " ",
+      "isactive": false
+    },
+    {
+      "id": 7,
+      "categoryName": "Birthday",
+      "categoryDescription": "Birthday12345",
+      "isactive": false
+    }
+  ],
+  "anniversdayevent": [
+    {
+      "id": 0,
+      "name": "kk",
+      "address": "qwe",
+      "date": "12-2-2023",
+      "description": "lkj",
+      "status": "Reject"
+    },
+    {
+      "Name": "Genipuri",
+      "Address": "wesrdtfghj",
+      "Date": "2023-10-06",
+      "Description": "wasdfcgvhjbkn",
+      "id": 1,
+      "status": "Approve"
+    }
+  ],
+  "gallaryimages": [],
+  "birthdaycelebrations": [
+    {
+      "Name": "Genipuri",
+      "Email": "123@gmail.com",
+      "PhoneNumber": "9959222482",
+      "Date": "2023-10-03",
+      "Address": "Burujukadapalli",
+      "Description": "Burujukadapalli",
+      "id": 1,
+      "Status": "pending"
+    },
+    {
+      "id": 2
+    }
+  ]
+}
